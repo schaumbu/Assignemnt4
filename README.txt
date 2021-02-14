@@ -13,7 +13,7 @@ Das gesamte Projekt befindet sich in folgendem Github:
 Der grundlegende Aufbau der Methoden und Klassen basiert auf Tutorial 8 und wurde für das Assignment erweitert und abgeändert.
 
 Das Projekt läuft gerade nur mit Grafikkarten mit einer Architektur >= sm_53, da sonst bestimmte Funktionen für halfs nicht funktionieren.
-Falls der PC nur eine Graka < sm_53 hat, müssen alle half-Funktionen auskommentiert werden und die Architektur in der cmakelist in Zeile 25 angepasst werden.
+Falls der PC nur eine Graka < sm_53 hat, müssen alle half-Funktionen auskommentiert werden und die Architektur in der cmakelist in Zeile 24 angepasst werden.
 
 Wir konnten das Projekt am Ende nicht mehr auf den Servern der FIN laufen lassen, da die Bilder aus irgendeinem Grund nicht mehr richtig hochgeladen wurden.
 Um es testen zu können, mussten wir alle anderen Ordner aus dem Projekt entfernen und nur einen Ordner mit Bildern (bspw. head) hochladen.
