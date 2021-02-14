@@ -8,7 +8,7 @@ Bennet Meier (bennet.meier@st.ovgu.de)
 Wichtige Infos:
 
 Im Elearning sind die Bilder aufgrund der Größe NICHT mit hochgeladen!
-Das gesamte Projekt befindet sich in folgendem Github:
+Das gesamte Projekt befindet sich in folgendem Github: https://github.com/schaumbu/Assignemnt4
 
 Der grundlegende Aufbau der Methoden und Klassen basiert auf Tutorial 8 und wurde für das Assignment erweitert und abgeändert.
 
